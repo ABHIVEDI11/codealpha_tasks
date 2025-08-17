@@ -80,7 +80,7 @@ python predict.py  # Make predictions
 ## Project Structure
 
 ```
-CODE_BASICS/
+Code_basics_task/
 ├── Credit_Scoring_Model/
 │   ├── train.py
 │   ├── predict.py
