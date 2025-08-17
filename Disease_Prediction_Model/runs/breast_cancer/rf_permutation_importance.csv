@@ -1,0 +1,11 @@
+feature,importance_mean,importance_std
+concave_points_mean,0.0045552477685441685,0.0029675520574192578
+perimeter_mean,0.0002462296091105265,0.00033149675636411546
+area_mean,0.000184672206832881,0.00024622960911049874
+radius_mean,0.0,0.0
+texture_mean,0.0,0.0
+smoothness_mean,0.0,0.0
+compactness_mean,0.0,0.0
+concavity_mean,0.0,0.0
+symmetry_mean,0.0,0.0
+fractal_dimension_mean,0.0,0.0

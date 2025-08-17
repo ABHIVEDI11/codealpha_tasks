@@ -1,0 +1,4 @@
+Model,AUC Score,CV Accuracy,CV Std
+Logistic Regression,0.9994,0.9400,0.0122
+Decision Tree,1.0000,0.9950,0.0100
+Random Forest,1.0000,0.9950,0.0100

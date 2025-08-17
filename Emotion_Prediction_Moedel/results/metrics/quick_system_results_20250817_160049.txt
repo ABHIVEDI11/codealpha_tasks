@@ -1,0 +1,9 @@
+Quick Emotion Recognition System Results
+========================================
+Timestamp: 2025-08-17 16:00:49
+Random Forest Accuracy: 1.0000
+SVM Accuracy: 1.0000
+Best Model: SVM
+Dataset Size: 84 samples
+Training Samples: 64
+Test Samples: 20

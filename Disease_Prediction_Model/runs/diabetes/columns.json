@@ -1,0 +1,14 @@
+{
+  "numeric": [
+    "pregnancies",
+    "glucose",
+    "bloodpressure",
+    "skinthickness",
+    "insulin",
+    "bmi",
+    "diabetespedigreefunction",
+    "age"
+  ],
+  "categorical": [],
+  "target": "outcome"
+}
