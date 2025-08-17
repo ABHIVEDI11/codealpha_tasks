@@ -1,9 +1,0 @@
-radius_mean,texture_mean,perimeter_mean,area_mean,smoothness_mean,compactness_mean,concavity_mean,concave_points_mean,symmetry_mean,fractal_dimension_mean,patient_id,risk_level
-22.5,25.8,145.2,1200.5,0.15,0.18,0.16,0.12,0.25,0.09,BC_01,High Risk
-20.8,24.1,135.7,1100.2,0.14,0.17,0.15,0.11,0.24,0.08,BC_02,High Risk
-24.2,27.3,155.8,1350.1,0.16,0.19,0.17,0.13,0.26,0.1,BC_03,High Risk
-16.5,20.2,105.3,750.8,0.11,0.12,0.08,0.05,0.2,0.07,BC_04,Medium Risk
-15.8,19.5,98.7,680.4,0.1,0.11,0.07,0.04,0.19,0.06,BC_05,Medium Risk
-11.2,16.8,72.5,420.3,0.08,0.06,0.03,0.02,0.16,0.05,BC_06,Low Risk
-10.8,15.9,68.2,380.7,0.07,0.05,0.02,0.01,0.15,0.04,BC_07,Low Risk
-12.5,17.2,78.9,450.1,0.09,0.07,0.04,0.02,0.17,0.06,BC_08,Low Risk

@@ -1,9 +1,0 @@
-age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,patient_id,risk_level
-68,1,3,180,350,1,2,110,1,3.5,0,3,3,HD_01,High Risk
-72,0,2,160,320,1,1,95,1,4.2,0,2,3,HD_02,High Risk
-55,1,1,145,280,0,0,130,1,2.8,1,1,2,HD_03,High Risk
-45,1,0,140,250,0,1,140,0,1.5,1,0,2,HD_04,Medium Risk
-58,0,1,135,240,1,0,150,0,1.2,2,0,2,HD_05,Medium Risk
-35,0,0,120,180,0,0,180,0,0.0,2,0,2,HD_06,Low Risk
-42,1,0,110,190,0,1,170,0,0.5,2,0,2,HD_07,Low Risk
-28,0,0,105,160,0,0,190,0,0.0,2,0,2,HD_08,Low Risk
