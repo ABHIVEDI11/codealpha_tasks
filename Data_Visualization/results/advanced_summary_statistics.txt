@@ -1,0 +1,45 @@
+ADVANCED QUOTES DATASET ANALYSIS
+==================================================
+
+DATASET STATISTICS:
+Total Quotes: 100
+Unique Authors: 50
+Total Pages: 10
+Average Quote Length: 122.3 characters
+Average Word Count: 23.6 words
+Longest Quote: 1084 characters
+Shortest Quote: 34 characters
+
+TOP 10 AUTHORS:
+1. Albert Einstein: 10 quotes
+2. J.K. Rowling: 9 quotes
+3. Marilyn Monroe: 7 quotes
+4. Dr. Seuss: 6 quotes
+5. Mark Twain: 6 quotes
+6. C.S. Lewis: 5 quotes
+7. Jane Austen: 5 quotes
+8. Bob Marley: 3 quotes
+9. Eleanor Roosevelt: 2 quotes
+10. Charles Bukowski: 2 quotes
+
+TOP 10 TAGS:
+1. love: 14 occurrences
+2. inspirational: 13 occurrences
+3. life: 13 occurrences
+4. humor: 12 occurrences
+5. books: 11 occurrences
+6. reading: 7 occurrences
+7. friendship: 5 occurrences
+8. truth: 4 occurrences
+9. friends: 4 occurrences
+10. attributed-no-source: 3 occurrences
+
+INTERACTIVE VISUALIZATIONS CREATED:
+- Interactive Author Analysis (HTML + PNG)
+- Interactive Tags Analysis (HTML + PNG)
+- Quote Length Analysis Dashboard (HTML + PNG)
+- Heatmap Analysis (HTML + PNG)
+- 3D Scatter Plot (HTML + PNG)
+- Comprehensive Dashboard (HTML + PNG)
+
+Analysis Date: 2025-08-22 00:40:39

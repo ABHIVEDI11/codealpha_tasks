@@ -1,0 +1,23 @@
+[
+  {
+    "product_name": "Laptop",
+    "price": "$999.99",
+    "rating": "4.5",
+    "reviews": "128",
+    "category": "Electronics"
+  },
+  {
+    "product_name": "Smartphone",
+    "price": "$699.99",
+    "rating": "4.2",
+    "reviews": "89",
+    "category": "Electronics"
+  },
+  {
+    "product_name": "Headphones",
+    "price": "$199.99",
+    "rating": "4.7",
+    "reviews": "256",
+    "category": "Audio"
+  }
+]
